@@ -39,4 +39,31 @@ un diagrama de casos de uso.
 - la empresa quiere ver las preferencias de envio de sus clientes para poder enviar las notificasiones de alerta
 - el cliente quiere crear una preferencia de envio para poder que la empresa le envie sus notificaciones de alerta
 
+---
 
+### punto 3
+
+3. Realice un diagrama de clases que permita entender su solución, adicional
+mencione que principios SOLID está aplicando, en que componentes y
+como.
+
+
+### punto 4
+
+los dos patrones son 
+1. Strategy
+2. Factory Method
+
+![img_2.png](img_2.png)
+
+- una unica responsabilidad por que las notificacion hasta el cliente tienen una sola responsabilidad
+- tiene open source por que puedo crear mas medios y tipos de 
+- liskof
+
+### jacoco sirve
+
+![img_3.png](img_3.png)
+![img_4.png](img_4.png)
+![img_5.png](img_5.png)
+
+### sonar
