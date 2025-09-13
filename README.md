@@ -64,7 +64,10 @@ Usamos el patrón Factory Method para tener una fábrica flexible que cree difer
 
 ---
 
+## Punto 5
 
+![img.png](docs/imagenes/img.png)
+![img.png](docs/imagenes/img.png)
 
 ---
 ### jacoco sirve
@@ -74,3 +77,5 @@ Usamos el patrón Factory Method para tener una fábrica flexible que cree difer
 ![img_5.png](docs/imagenes/img_5.png)
 
 
+![img_1.png](docs/imagenes/img_1.png)
+![img_2.png](docs/imagenes/img_2.png)
